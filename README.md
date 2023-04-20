@@ -55,7 +55,7 @@
 
 ### Задание 3
 
-<https://github.com/RikLedger/project1.git/network>
+<https://github.com/RikLedger/project1.git>
 
 ### Задание 4
 
